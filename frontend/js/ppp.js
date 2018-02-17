@@ -1,6 +1,5 @@
 options={
-	debug:true,
-	xx:44
+	debug:true
 	}
 util={
 	ajax:function(url,dati,metodo,tipodati,crossdomain,async,callback){
